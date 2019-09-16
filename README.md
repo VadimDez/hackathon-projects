@@ -2,7 +2,13 @@
 
 * Oktoberhackfest 2015
 
-* Journalism Hackathon
+* Booking.com Hackathon - 2017
+* Zeiss Hackathon - 2017
+
+* FutureLab hackathon - 2017
+* Digital Journalism Hackathon
+
+* Be5 Hackdays - 2019
 
 * Techfest Munich 2017 - Flixbus ads
 * Techfest Munich 2018 - Diffusor
