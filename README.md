@@ -1,5 +1,6 @@
 # hackathon-projects
 
+* Intel IoT Roadshow Munich - 2014
 * Oktoberhackfest 2015
 
 * Booking.com Hackathon - 2017
