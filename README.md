@@ -1,7 +1,8 @@
 # hackathon-projects
 
 * Intel IoT Roadshow Munich - 2014
-* Intel IoT Roadshow Milan - 2014
+* Intel IoT Roadshow Berlin - 2014
+* Cisco Milan - 
 * Cisco Paris - 
 * Oktoberhackfest 2015
 
