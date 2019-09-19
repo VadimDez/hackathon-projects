@@ -1,6 +1,8 @@
 # hackathon-projects
 
 * Intel IoT Roadshow Munich - 2014
+* Intel IoT Roadshow Milan - 2014
+* Cisco Paris - 
 * Oktoberhackfest 2015
 
 * Booking.com Hackathon - 2017
