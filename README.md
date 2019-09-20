@@ -5,13 +5,13 @@
 * Cisco Milan - 
 * Cisco Paris - 
 * Oktoberhackfest 2015
-
+*
 * Booking.com Hackathon - 2017
 * Zeiss Hackathon - 2017
-
+*
 * FutureLab hackathon - 2017
 * Digital Journalism Hackathon
-
+* 
 * Be5 Hackdays - 2019
 
 * Techfest Munich 2017 - Flixbus ads
