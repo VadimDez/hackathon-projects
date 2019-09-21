@@ -5,7 +5,7 @@
 * Cisco Milan - 
 * Cisco Paris - 
 * Oktoberhackfest 2015
-*
+* Wearable data hack
 * Booking.com Hackathon - 2017
 * Zeiss Hackathon - 2017
 *
