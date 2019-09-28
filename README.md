@@ -3,10 +3,11 @@
 * Intel IoT Roadshow Munich - 2014
 * Intel IoT Roadshow Berlin - 2014
 * Intel RealSense Hackathon - 2014
-* Cisco Milan - 
-* Cisco Paris - 
+* Cisco Milan - 2015
+* Cisco Paris - 2015
 * Oktoberhackfest 2015
-* Wearable data hack
+* Unicredit hackathon - 2015
+* Wearable data hack - 2016
 * Audi smart factory hackathon - 2016
 * ProSieben 7Hack - 2016
 * Booking.com Hackathon - 2017
