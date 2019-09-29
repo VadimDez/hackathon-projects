@@ -10,6 +10,7 @@
 * Wearable data hack - 2016
 * Audi smart factory hackathon - 2016
 * ProSieben 7Hack - 2016
+* Bayrische Rundfunk - 2017
 * Booking.com Hackathon - 2017
 * Zeiss Hackathon - 2017
 * FutureLab hackathon - 2017
