@@ -1,5 +1,7 @@
 # hackathon-projects
 
+> This list is incomplete...
+
 * Intel IoT Roadshow Munich - 2014
 * Intel IoT Roadshow Berlin - 2014
 * Intel RealSense Hackathon - 2014
