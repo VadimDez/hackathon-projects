@@ -22,6 +22,6 @@
 * #FCBayernHackDays - Jan, 2018
 * Be5 Hackdays - 2019
 
-* Techfest Munich 2017 - Flixbus ads
-* Techfest Munich 2018 - Diffusor
-* Techfest Munich 2019 - Parallel Parking for Sports car
+* [Techfest Munich 2017](https://techfestmunich.com) - Flixbus ads
+* [Techfest Munich 2018](https://techfestmunich.com) - Diffusor
+* [Techfest Munich 2019](https://techfestmunich.com) - Parallel Parking for Sports car
