@@ -10,7 +10,7 @@
 * Oktoberhackfest 2015
 * HVB Burda hackdays 2015
 * Unicredit hackathon - 2015
-* Wearable data hack - 2016
+* [Wearable data hack - 2016](https://github.com/wearabledata/Senti)
 * Audi smart factory hackathon - 2016
 * ProSieben 7Hack - 2016
 * Burda Hackdays - 2016
@@ -20,7 +20,7 @@
 * Zeiss Hackathon - 2017
 * FutureLab hackathon - 2017
 * #FCBayernHackDays - Jan, 2018
-* Be5 Hackdays - 2019
+* [Be5 Hackdays - Feb 2-3, 2019](https://github.com/VadimDez/qa)
 
 * [Techfest Munich 2017](https://techfestmunich.com) - Flixbus ads
 * [Techfest Munich 2018](https://techfestmunich.com) - Diffusor
