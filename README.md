@@ -16,7 +16,7 @@
 * Burda Hackdays - 2016
 * [Digital Journalism Hackathon - 10-12 June 2016](https://github.com/VadimDez/CommText)
 * Bayrische Rundfunk - 2017
-* Booking.com Hackathon - 2017
+* [Booking.com Hackathon - 24-25 Jun 2017](https://github.com/VadimDez/concert.trip)
 * [FutureLab hackathon - 10-11 Jun 2017 - ECast](https://github.com/VadimDez/ecast)
 * [Zeiss Hackathon - 15-16 Jun 2018 - Helmet](https://github.com/VadimDez/Helmet)
 * [#FCBayernHackDays - 19-22 Jan 2018 - A-Shuttle](https://github.com/VadimDez/a-shuttle)
