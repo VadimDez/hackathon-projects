@@ -2,7 +2,7 @@
 
 > The list of hackathons that i've attended [incomplete]...
 
-* Intel IoT Roadshow Munich - 18-19 Oct 2014
+* [Intel IoT Roadshow Munich - 18-19 Oct 2014](https://github.com/VadimDez/clown_in_the_cloud)
 * Intel IoT Roadshow Berlin - 25 Apr 2015 
 * Intel RealSense Hackathon - 2014
 * [Cisco Live Milan Hackathon - 24-25 Jan, 2015](https://github.com/VadimDez/AirFrasher)
