@@ -4,7 +4,7 @@
 
 * [Intel IoT Roadshow Munich - 18-19 Oct 2014](https://github.com/VadimDez/clown_in_the_cloud)
 * Intel IoT Roadshow Berlin - 25 Apr 2015 
-* Intel RealSense Hackathon - 2014
+* [Intel RealSense Hackathon - 25 Feb 2015](https://github.com/VadimDez/intelEmotionPlayer)
 * [Cisco Live Milan Hackathon - 24-25 Jan, 2015](https://github.com/VadimDez/AirFrasher)
 * [Cisco Paris - 3-4 Apr, 2015](https://github.com/VadimDez/DealMeIn)
 * Oktoberhackfest 2015
@@ -12,7 +12,7 @@
 * Unicredit hackathon - 2015
 * [Wearable data hack - 2016](https://github.com/wearabledata/Senti)
 * Audi smart factory hackathon - 2016
-* ProSieben 7Hack - 2016
+* [ProSieben 7Hack - 19-20 Mar 2016](https://github.com/VadimDez/edutainment)
 * Burda Hackdays - 2016
 * [Digital Journalism Hackathon - 10-12 June 2016](https://github.com/VadimDez/CommText)
 * Bayrische Rundfunk - 2017
