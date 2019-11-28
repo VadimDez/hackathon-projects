@@ -5,7 +5,7 @@
 * [Intel IoT Roadshow Munich - 18-19 Oct 2014](https://github.com/VadimDez/clown_in_the_cloud)
 * Intel IoT Roadshow Berlin - 25 Apr 2015 
 * [Intel RealSense Hackathon - 25 Feb 2015](https://github.com/VadimDez/intelEmotionPlayer)
-* [Cisco Live Milan Hackathon - 24-25 Jan, 2015](https://github.com/VadimDez/AirFrasher)
+* Cisco Live Milan Hackathon, 24-25 Jan, 2015 - [AirFräsher](https://github.com/VadimDez/AirFrasher)
 * [Cisco Paris - 3-4 Apr, 2015](https://github.com/VadimDez/DealMeIn)
 * Oktoberhackfest 2015
 * HVB Burda hackdays 2015
