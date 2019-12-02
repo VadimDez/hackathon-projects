@@ -14,8 +14,8 @@
 * Audi smart factory hackathon - 2016
 * [ProSieben 7Hack - 19-20 Mar 2016](https://github.com/VadimDez/edutainment)
 * Burda Hackdays - 2016
-* [Digital Journalism Hackathon - 10-12 June 2016](https://github.com/VadimDez/CommText)
-* Bayrische Rundfunk - 2017
+* Bayrische Rundfunk - 20-21 Feb 2016 - [Football Quiz](https://github.com/VadimDez/football-quiz)
+* Digital Journalism Hackathon - 10-12 June 2016 - [CommText](https://github.com/VadimDez/CommText)
 * [Booking.com Hackathon - 24-25 Jun 2017](https://github.com/VadimDez/concert.trip)
 * [FutureLab hackathon - 10-11 Jun 2017 - ECast](https://github.com/VadimDez/ecast)
 * [Zeiss Hackathon - 15-16 Jun 2018 - Helmet](https://github.com/VadimDez/Helmet)
