@@ -12,7 +12,7 @@
 * Unicredit hackathon - 2015
 * Wearable data hack - 2016 - [Senti](https://github.com/wearabledata/Senti)
 * Audi smart factory hackathon - 2016
-* [ProSieben 7Hack - 19-20 Mar 2016](https://github.com/VadimDez/edutainment)
+* ProSieben 7Hack - 19-20 Mar 2016 - [Curio](https://github.com/VadimDez/edutainment)
 * Burda Hackdays - 2016
 * Bayrische Rundfunk - 20-21 Feb 2016 - [Football Quiz](https://github.com/VadimDez/football-quiz)
 * Digital Journalism Hackathon - 10-12 June 2016 - [CommText](https://github.com/VadimDez/CommText)
