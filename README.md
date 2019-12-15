@@ -22,6 +22,6 @@
 * #FCBayernHackDays - 19-22 Jan 2018 - [A-Shuttle](https://github.com/VadimDez/a-shuttle)
 * Be5 Hackdays - Feb 2-3, 2019 - [QA5](https://github.com/VadimDez/qa)
 
-* [Techfest Munich 2017](https://techfestmunich.com) - Flixbus ads
+* [Techfest Munich 2017](https://techfestmunich.com) - 9-10 Sept 2017 - [Flixbus ads](https://github.com/VadimDez/local-eye)
 * [Techfest Munich 2018](https://techfestmunich.com) - Diffusor
 * [Techfest Munich 2019](https://techfestmunich.com) - Parallel Parking for Sports car
