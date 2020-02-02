@@ -7,7 +7,7 @@
 * Intel RealSense Hackathon - 25 Feb 2015 - [Emotion Player](https://github.com/VadimDez/intelEmotionPlayer)
 * Cisco Live Milan Hackathon, 24-25 Jan, 2015 - [AirFräsher](https://github.com/VadimDez/AirFrasher)
 * Cisco Paris - 3-4 Apr, 2015 - [Deal Me In](https://github.com/VadimDez/DealMeIn)
-* Oktoberhackfest 2015
+* Oktoberhackfest | IHK Hackathon - 26-27 Sept, 2015 - [Trade Port](https://github.com/stephenvfg/TradePort)
 * HVB Burda hackdays 2015
 * Unicredit hackathon - 2015
 * Wearable data hack - 2016 - [Senti](https://github.com/wearabledata/Senti)
